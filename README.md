@@ -15,6 +15,7 @@ To make a Point Cloud Map from mesh files. With tools like [CloudCompare](https:
 
 ## Requirements
 
+- Python3 (tested on Python 3.10.12)
 - Blender(tested on Blender 3.02)
 - Gazebo Sim(tested on Gazebo Fortress)
 
